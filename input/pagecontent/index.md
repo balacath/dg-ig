@@ -17,8 +17,8 @@ Dieses Implementation Guide basiert auf CH Core AllergyIntolerance und definiert
 - **Invariante:** Bestätigte Allergien müssen mindestens eine Reaktion dokumentieren.
 - **FHIR-Beispiel:** Penicillinallergie der Patientin Anna Muster mit dokumentierter Hautreaktion.
 
-* [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): TODO
-* [Titel eures Beispiels](AllergyIntolerance-TODO_Name.html): TODO
+- [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): FHIR-Profil zur standardisierten Erfassung von Arzneimittelallergien.
+- [Penicillinallergie von Anna Muster](AllergyIntolerance-PenicillinAllergieAnna.html): Beispiel einer bestätigten Penicillinallergie mit Hautreaktion.
 
 <!-- TODO_Name ist der Name hinter "Instance:" in beispiele.fsh,
      z. B. AllergyIntolerance-PenicillinAllergieAnna.html -->
