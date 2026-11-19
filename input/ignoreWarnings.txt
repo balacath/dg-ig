@@ -7,3 +7,44 @@
 
 # CH Term 3.3.0 wird über die ZHAW-Vorlage verwendet; die Abhängigkeiten bleiben für das Lab unverändert.
 The ImplementationGuide uses package ch.fhir.ig.ch-term#3.3.0 released on 2025-12-15, but the most recent appropriate version is 3.4.0. This reference is getting old and the more recent version should be considered
+
+# Warnung aus der automatisch erzeugten searchform.html des IG Publishers; kein Fehler in unserem FSH-Profil.
+The html source is not well formed: Found "</a>" expecting "</img>" at line 34 column 177
+
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 79 column 10
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 80 column 9
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 109 column 8
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 111 column 12
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 112 column 20
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 113 column 16
+
+# HTML-Strukturwarnung in der automatisch erzeugten Suchseite des IG Publishers.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 115 column 12
+
+# Das HTML-Fragment stammt aus dem IG-Publisher-Template und wird in unserem kleinen Lab-IG nicht verwendet.
+The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+
+
+# Die Cross-Version-Analyse wird in unserem Lab-IG nicht benötigt; die Fragmente stammen aus dem Publisher-Template.
+An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+
+
+# Die Tabellenfragmente für FHIR-Abhängigkeiten werden auf unserer IG-Website nicht verwendet.
+An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+
+
+# Das HTML-Fragment globals-table.xhtml wird in unserem kleinen Lab-IG nicht benötigt.
+The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+
