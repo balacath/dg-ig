@@ -28,8 +28,7 @@ Dieses Implementation Guide basiert auf CH Core AllergyIntolerance und definiert
 Dieses IG baut auf [CH Core 6.0.0](https://fhir.ch/ig/ch-core/6.0.0/) auf.
 
 ### Autorin oder Autor
-
-**Erstellt von:** Athi
+**Erstellt von:** Athmika Balachandrakumar
 
 **Hochschule:** ZHAW – Zürcher Hochschule für Angewandte Wissenschaften
 
